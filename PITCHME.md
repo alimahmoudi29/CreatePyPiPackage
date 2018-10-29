@@ -1,1 +1,4 @@
 # test
+
+
+mathjax : TeX-MML-AM_HTMLorMML-full
